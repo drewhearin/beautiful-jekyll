@@ -4,11 +4,12 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Drew Hearin an dI currently reside in Kalamazoo, MI USA.
+My name is Drew Hearin and I currently reside in Kalamazoo, MI USA.
 
 Some things I Enjoy:
 
 - tech
+- travel
 - film & T.V
 - video games 
 - skiing
