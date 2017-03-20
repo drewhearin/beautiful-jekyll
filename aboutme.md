@@ -18,5 +18,4 @@ Some things I Enjoy:
 
 What else do you need?
 
-### my history
 
