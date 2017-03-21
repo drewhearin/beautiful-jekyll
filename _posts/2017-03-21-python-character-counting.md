@@ -7,7 +7,7 @@ subtitle:
 This is a code problem I encountered months ago on an application. 
 I'm sure there's lots of other (more efficient) ways of achieving the end result, but this is how I did it.
 
-## The Initial problem
+## The Problem
 
 #### Sort the characters in the following string:
 ```
