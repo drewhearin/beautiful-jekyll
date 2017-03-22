@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sorting Characters by Number of Appearances in Python  
+title: Sorting Characters by Number of Occurenes with Python
 subtitle: 
 ---
 
