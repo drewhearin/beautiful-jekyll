@@ -7,7 +7,7 @@ subtitle: "I don't have anything to hide"
 > ### "Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say," 
 -Edward Snowden
 
-I belive privacy is one of our last very fundamental human rights, and it hurts that it's a topic that's easily slept under
+I strongly believe privacy is one of our last very fundamental human rights, and it hurts that it's a topic that's easily slept under
 the rug by most.  I like to believe a lot of this comes from general lack of knowledge as well as a feeling of lack of control, 
 at least for myself.  However I still think it's important to stay aware of these issues.  Moving forward in 2017 I think the below 
 article captures the essence of what is really important, having secure systems that allow for encrypted messaging between
