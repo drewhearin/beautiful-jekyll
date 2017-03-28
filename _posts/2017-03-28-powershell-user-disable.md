@@ -3,7 +3,7 @@ layout: post
 title: Disabling and moving Active Directory users with Powershell
 subtitle: or 'Posh' as some call it 
 ---
-## The problem
+## The Problem
 
 Sometimes when you're busy it's easy to forget a step in a process.
 
@@ -20,11 +20,11 @@ optional exchange server connection, it does just that.
   
 So this is pretty straight forward, when you run it it will ask you to input their ad username, then 
 when it tries to reach the exchange server it will prompt you for your exchange server credentials.
-Once it's done it should close out and you should be all set.  At the time it only takes one username at a time, but I wonder if it
+Once it's done it should close out and you should be all set.  At the time it only accepts a single username, but I wonder if it
 may be possible to pass multiple usernames into an array, might have to come back to that one.
    
- ## The code
-
+ ## Code
+ 
 ```powershell
 
 Set-ExecutionPolicy Bypass -Scope Process
