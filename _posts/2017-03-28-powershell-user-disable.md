@@ -22,8 +22,9 @@ So this is pretty straight forward, when you run it it will ask you to input the
 when it tries to reach the exchange server it will prompt you for your exchange server credentials.
 Once it's done it should close out and you should be all set.  At the time it only accepts a single username, but I wonder if it
 may be possible to pass multiple usernames into an array, might have to come back to that one.
-   
- ## Code
+
+## Code   
+
  
 ```powershell
 
