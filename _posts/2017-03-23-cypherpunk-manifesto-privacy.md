@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some thoughts on Privacy & A Cypehrphunk's Manifesto
+title: Some Thoughts on Privacy & a Cypherphunk's Manifesto
 subtitle: "I don't have anything to hide"
 ---
 
