@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Disabling and moving Active Directory users with Powershell
+title: Disabling and Moving Active Directory Users with Powershell
 subtitle: or 'Posh' as some call it 
 ---
 ## The Problem
