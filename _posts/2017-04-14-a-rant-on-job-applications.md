@@ -14,4 +14,4 @@ Cover letters are seeming to become less common, and I’ve been told by a numbe
 
 It pretty much goes without saying that of course not every application gets lost, and not everyone denied - but after you’ve been doing it for a while you can’t help but feel a stream of helplessness.  As always, having a recruiter or friend will probably always be more beneficial than ‘cold’ applying.  Some companies even have systems in place to streamline candidates that have been referred or the employers are simply fond of.
 
-I recently came across a satirical article [Thanks for Submitting Your Résumé to This Black Hole](https://www.nytimes.com/2017/03/25/opinion/sunday/thanks-for-submitting-your-resume-to-this-black-hole.html?_r=0) on The New York Times that captures this process and feeling eloquently 
+I recently came across a satirical article [Thanks for Submitting Your Résumé to This Black Hole](https://www.nytimes.com/2017/03/25/opinion/sunday/thanks-for-submitting-your-resume-to-this-black-hole.html?_r=0) on The New York Times that captures this process and feeling eloquently.
