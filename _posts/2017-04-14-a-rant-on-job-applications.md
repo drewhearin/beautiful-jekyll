@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Job application rant
+title: A Rant on Job Applications 
 subtitle: Here we go again  
 ---
 
