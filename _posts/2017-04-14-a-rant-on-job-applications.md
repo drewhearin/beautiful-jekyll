@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Small Rant on Job Applications 
-subtitle: Here we go again  
+subtitle: 
 ---
 
 I’ve just returned from a week vacation in the beautiful island of St. Lucia.  I come armed with more energy to keep searching for the next opportunity. In 2017 applying for certain jobs can be a huge pain.  Depending on the size of the company you’re never really even guaranteed to get an email confirmation saying your application was received (until weeks later), I’ve had this happen with Facebook a few times.
@@ -13,3 +13,5 @@ This is one thing I have come to appreciate about younger companies and startups
 Cover letters are seeming to become less common, and I’ve been told by a number of recruiters that they don’t even waste time reading them, sort of like professional summaries - lets face it, most of the time it sounds like the most manufactured statement that recruiters are probably rolling their eyes at- because your ‘mission’ sounds just like the other 75 resumes they read that day.  I still think a cover letter can be great if it’s a company you may know really well, or to be able to expound on why you may be a great fit for said position.  When I really care about a possible prospect, I will most certainly write a cover letter, the last one I did landed me an interview and eventually a free flight cross-country.  In this case it was beneficial because the interviewer had applied through a similar process and showed excitement in their cover letter, so they aren’t completely useless, but shouldn’t be a requirement.  If you care about a company you’ll probably take the time to do one or show excitement for the position somehow.   I recently spent around 45 minutes applying to a major broadcasting company, knowing that chances are probably little to none in terms of hearing back.  However it’s completely reasonable to understand that you may not ever hear back, with the sheer volume of people applying for said position at $largeCompany , coupled with being able to pass the software filters for applications.
 
 It pretty much goes without saying that of course not every application gets lost, and not everyone denied - but after you’ve been doing it for a while you can’t help but feel a stream of helplessness.  As always, having a recruiter or friend will probably always be more beneficial than ‘cold’ applying.  Some companies even have systems in place to streamline candidates that have been referred or the employers are simply fond of.
+
+I recently came across a satirical article [Thanks for Submitting Your Résumé to This Black Hole](https://www.nytimes.com/2017/03/25/opinion/sunday/thanks-for-submitting-your-resume-to-this-black-hole.html?_r=0) on The New York Times that captures this process and feeling eloquently 
