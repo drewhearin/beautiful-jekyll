@@ -12,7 +12,7 @@ This is a small compilation of various forms of media that I've enjoyed this pas
 
 This site is great because it combines 3 sites I love: Hacker News, Google news and Reddit onto one neat page. It also contains a few subreddits (Ask Reddit, Men & Women, Ask Historians, TrueReddit, ELI5, Life Hacks and All).  The only thing that would make this site better is if you could choose which subreddits were displayed.
 
-[TV Tropes](tvtropes.org)
+[TV Tropes](http://tvtropes.org)
 I love TV and Movies and was happy to have found this gem not too long ago, and I warn you, the rabbit hole goes deep.  As stated by the wiki: TV Tropes is a wiki that collects and expands descriptions and examples on various conventions and devices (tropes) found within creative works.
 
 ## Book(s)
