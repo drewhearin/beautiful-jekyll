@@ -4,7 +4,7 @@ title: April Wrap Up
 subtitle: 
 ---
 
-This is a small compilation of various forms of media that I've enjoyed this past month.
+A small compilation of various forms of media that I've enjoyed this past month.
 
 ## Site(s)
 
