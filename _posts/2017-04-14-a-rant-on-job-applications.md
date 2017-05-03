@@ -4,7 +4,7 @@ title: A Small Rant on Job Applications
 subtitle: 
 ---
 
-This is more or less commentary off this post I came across [Thanks for Submitting Your Résumé to This Black Hole](https://www.nytimes.com/2017/03/25/opinion/sunday/thanks-for-submitting-your-resume-to-this-black-hole.html?_r=0) 
+This is more or less commentary off this post I came across on the New York Times: [Thanks for Submitting Your Résumé to This Black Hole](https://www.nytimes.com/2017/03/25/opinion/sunday/thanks-for-submitting-your-resume-to-this-black-hole.html?_r=0) 
 
 I’ve just returned from a week-long vacation on the beautiful island of St. Lucia, reinvigorated to continue my search.  In 2017 applying for certain jobs can be a huge pain.  Depending on the size of the company you’re never really even guaranteed to get an email confirmation saying your application was received (until weeks later), I’ve had this happen with Facebook a few times.
 
