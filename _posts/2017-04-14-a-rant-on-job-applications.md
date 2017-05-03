@@ -4,6 +4,8 @@ title: A Small Rant on Job Applications
 subtitle: 
 ---
 
+This is more or less commentary off this post I came across [Thanks for Submitting Your Résumé to This Black Hole](https://www.nytimes.com/2017/03/25/opinion/sunday/thanks-for-submitting-your-resume-to-this-black-hole.html?_r=0) 
+
 I’ve just returned from a week-long vacation on the beautiful island of St. Lucia, reinvigorated to continue my search.  In 2017 applying for certain jobs can be a huge pain.  Depending on the size of the company you’re never really even guaranteed to get an email confirmation saying your application was received (until weeks later), I’ve had this happen with Facebook a few times.
 
 I think one of my biggest gripes with applying for some of these larger more established companies is the application process itself.  Sites that use the Oracle/Taleo system are almost an immediate turn away for me, I think a lot of people would agree.  If it’s a company site you’ve never visited, you’re almost guaranteed to have to go through the painful process of creating a new profile (don’t worry, you won’t remember your login when you come back months later), then being forced to fill out every detail of your entire life.  More frustrating is a lot of these sites won’t let you bypass optional fields such as references, etc.  It doesn’t make any sense to have references required at such an early stage of the process, that doesn’t even necessarily guarantee you’re going to ever hear back.  You just spent near an hour filling out near useless information to be stored in some database for years to come.  
@@ -14,4 +16,3 @@ Cover letters are seeming to become less common, and I’ve been told by a numbe
 
 It pretty much goes without saying that of course not every application gets lost, and not everyone denied - but after you’ve been doing it for a while you can’t help but feel a stream of helplessness.  As always, having a recruiter or friend will probably always be more beneficial than ‘cold’ applying.  Some companies even have systems in place to streamline candidates that have been referred or the employers are simply fond of.
 
-I recently came across a satirical article [Thanks for Submitting Your Résumé to This Black Hole](https://www.nytimes.com/2017/03/25/opinion/sunday/thanks-for-submitting-your-resume-to-this-black-hole.html?_r=0) on The New York Times that captures this process and feeling eloquently.
