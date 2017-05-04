@@ -2,7 +2,7 @@
 layout: post
 title: A Small Rant on Job Applications 
 subtitle: 
-googlefonts: "Lato"
+googlefonts: "Allura"
 ---
 
 This is more or less commentary off this post I came across on the New York Times: [Thanks for Submitting Your Résumé to This Black Hole](https://www.nytimes.com/2017/03/25/opinion/sunday/thanks-for-submitting-your-resume-to-this-black-hole.html?_r=0) 
