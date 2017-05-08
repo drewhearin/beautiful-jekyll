@@ -1,3 +1,9 @@
+---
+layout: post
+title: Access Reddit & Send an SMS using Python
+subtitle: 
+---
+
 ## Access Reddit & Send an SMS using Python
 
 I recently discovered the [Python Reddit API Wrapper (PRAW)](http://praw.readthedocs.io/en/latest/index.html) which provides an easy way to communicate with Reddit's API within your program.
