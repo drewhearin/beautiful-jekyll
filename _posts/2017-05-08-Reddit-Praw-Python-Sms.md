@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Access Reddit & Send an SMS using Python
-subtitle: 
+subtitle: utilizing PRAW & Twilio modules
 ---
 
 ## Access Reddit & Send an SMS using Python
@@ -20,8 +20,8 @@ My code is pretty straight forward but here's what's going on:
 
 1. Import the PRAW & Twilio Modules
 2. We set our individual reddit client info to a variable. Make sure to set your user_agent to something useful, preferably the name of your application with your username, just don't include the word 'bot'
-3. I set a results variable and I set the limit = 1 (theoretically you could send many lines)
-4. I initiate a simple for loop that iterates over the submissions for the subreddit, and to make it look a little better I added a new line. Note that the submission text (not title) in PRAW is called 'selftext'
+3. I set an empty results string variable
+4. I initiate a simple for loop that iterates over the submissions for the subreddit, and to make it look a little better I added a new line. Note that the submission text (not title) in PRAW is called 'selftext' and I set the limit = 1 (theoretically you could send many lines)
 5. Set the proper credentails for Twilio, set the To and From numbers accordingly 
 6. Run the print command on our created message, this will send it.
 
