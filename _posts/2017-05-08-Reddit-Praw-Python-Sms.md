@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Access Reddit & Send an SMS using Python
-subtitle: utilizing PRAW & Twilio modules
+title: Accessing Reddit & Sending an SMS using Python
+subtitle: Utilizing the PRAW & Twilio modules
 ---
 
 ## Access Reddit & Send an SMS using Python
