@@ -6,7 +6,7 @@ subtitle:
 
 ## Ransomware Prevention with FSRM 
 
-These are some ongoing notes for myself I put together on my phone while patching my 2008 R2 servers.  Suffice it to say, it's not meant to be a step by step, but something that I can look back on. Most of what's needed to implement this solution is listed under resources.  I looked into FSRM back in October 2016 after we had a similar incident at the facility I work at.
+These are some ongoing notes for myself I put together on my phone while patching our 2008 R2 servers.  Suffice it to say, it's not meant to be a step by step, but something that I can look back on. Most of what's needed to implement this solution is listed under resources.  I looked into FSRM back in October 2016 after we had a similar incident at the facility I work at.
 
 ### What is FSRM?
 
