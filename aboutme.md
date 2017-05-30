@@ -14,7 +14,7 @@ I work as an Information Systems Generalist for a non-profit healthcare organiza
 
 ## Leisure
 
-I enjoy cheesy 80s movies, good beer , film & tv
+I enjoy cheesy 80s movies, clicky keyboards, a good font, delicious beer, film & tv
 
 More to come!
 
