@@ -7,7 +7,7 @@ subtitle:
 
 Sometimes when you're busy it's easy to forget a step in a process.
 
-The usual process for unboarding a system user involved the following:
+The usual process for offboarding a system user involved the following:
 
 1. Disable user in active directory (AD)
 2. Remove the user from AD groups 
