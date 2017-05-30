@@ -12,7 +12,7 @@ These are some ongoing notes for myself I put together on my phone while patchin
 
 FSRM actively monitors your Windows Server shares and files and could alert you of any malicious activity you specify.
 
-More so it detects changes in file extensions by applying screen filters, and triggers a system event.  You can use your own choice of monitoring software to report the event.  The following articles should be good enough to get this going.  
+More so it detects changes in file extensions by applying screen filters, and triggers a system event.  You can use your own choice of monitoring software to report the event.  
 
 ### Scheduling Updates
 
